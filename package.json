@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This is a resume of Mohamed Anushkar, God of web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "resume export resume.html"
+  },
+  "author": "Mohamed Anushkar",
+  "license": "ISC",
+  "dependencies": {
+    "resume": "^0.0.1"
+  }
+}
