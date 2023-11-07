@@ -1,73 +1,101 @@
 {
+    "meta": {
+        "theme": "macchiato"
+    },
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Mohamed Anushkar",
+        "label": "Front-end Developer",
         "image": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "url": "https://johndoe.com",
-        "summary": "A summary of John Doe…",
+        "email": "mohamedanushkar@gmail.com",
+        "phone": "+94768662659",
+        "summary": "Full-Stack Developer - TypeScript | Javascript | Html | JSX | Css | SCSS | Tailwind CSS | React js | Next js | Boostrap | MySql | Laravel | Fgima | 3+ years of Enterprise-Level Experience",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "no. 363/2 Alabadagama Pannala",
+            "postalCode": "60160",
+            "city": "Pannala",
+            "countryCode": "LK",
+            "region": "Kurunegala"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "https://twitter.com/john"
+                "username": "mohamedanushkar",
+                "url": "https://www.linkedin.com/in/mohamed-anushkar-641314141/"
             }
         ]
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Started the company"
-            ]
+            "name": "DoubleQ",
+            "position": "Software Developer",
+            "startDate": "2021-09-30",
+            "highlights": [],
+            "summary": "Results-driven Front-End Developer with 2.5 + years of expertise in React.js and UI/UX design, adept at translating design concepts into seamless, visually appealing interfaces, now incorporating 3D technologies to enhance user experiences.",
+            "url": "https://www.linkedin.com/company/18884090",
+            "location": "Melbourne, Victoria, Australia"
+        },
+        {
+            "name": "SEVN Studios",
+            "position": "Associate Developer",
+            "startDate": "2019-07-31",
+            "endDate": "2021-09-30",
+            "highlights": [],
+            "summary": "Detail-oriented Front-End Developer with foundational skills in TypeScript, JavaScript, HTML, JSX, CSS, and SCSS. Proficient in React.js, Next.js, Tailwind CSS, and Bootstrap. Collaborative team player with a focus on translating design ideas into responsive and user-friendly interfaces for seamless digital experiences.",
+            "url": "https://www.linkedin.com/company/31172464",
+            "location": "Colombo, Western, Sri Lanka"
+        },
+        {
+            "name": "Freelancer",
+            "position": "Freelance Full Stack",
+            "startDate": "2017-07-31",
+            "endDate": "2019-07-31",
+            "highlights": [],
+            "summary": "Detail-oriented Front-End Developer with foundational skills in TypeScript, JavaScript, HTML, JSX, CSS, and SCSS. Proficient in React.js, Next.js, Tailwind CSS, and Bootstrap. Collaborative team player with a focus on translating design ideas into responsive and user-friendly interfaces for seamless digital experiences.",
+            "url": "https://www.linkedin.com/company/31172464",
+            "location": "Colombo, Western, Sri Lanka"
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
+            "organization": "Keleliya Welfare Organisation",
             "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
+            "summary": "Assisted in fundraising campaigns, contributing to the organization's ability to provide essential resources to those in need."
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "score": "4.0",
-            "courses": [
-                "DB1101 - Basic SQL"
-            ]
+            "institution": "London Metropolitan University",
+            "area": "Computer Software Engineering",
+            "studyType": "BENg Software engineering",
+            "startDate": "2018-12-31",
+            "endDate": "2019-12-20"
+        },
+        {
+            "institution": "Pearson College London",
+            "area": "Computer Software Engineering",
+            "studyType": "Higher National Diploma",
+            "startDate": "2017-12-31",
+            "endDate": "2018-12-31"
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "title": "Outstanding Project Completion Award",
+            "awarder": "DoubleQ",
+            "date": "2022-06-05",
+            "summary": "Awarded for consistently completing projects with exceptional quality and efficiency, demonstrating a high level of expertise and dedication to meeting project goals and deadlines."
+        },
+        {
+            "title": "Exceptional Workmanship Award",
+            "awarder": "DoubleQ",
+            "date": "2023-08-25",
+            "summary": "Granted for exceptional craftsmanship and attention to detail in project execution, highlighting the ability to deliver work of superior quality and precision"
+        },
+        {
+            "title": "Client Satisfaction Excellence Award",
+            "awarder": "DoubleQ",
+            "date": "2023-09-05",
+            "summary": "Awarded for consistently delivering projects that exceed client expectations, resulting in high levels of client satisfaction and positive feedback"
         }
     ],
     "certificates": [
@@ -78,57 +106,100 @@
             "url": "https://certificate.com"
         }
     ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
-        }
-    ],
     "skills": [
         {
-            "name": "Web Development",
-            "level": "Master",
+            "name": "React.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "JavaScript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "TypeScript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "three.js",
+            "level": "",
             "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "React three fiber"
             ]
+        },
+        {
+            "name": "SCSS",
+            "level": "",
+            "keywords": [
+                "Tailwind",
+                "Bootstrap",
+                "css"
+            ]
+        },
+        {
+            "name": "3D designing",
+            "level": "",
+            "keywords": [
+                "Spilne 3D"
+            ]
+        },
+        {
+            "name": "Next Js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Headless CMS",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "API Integration",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Designing",
+            "level": "",
+            "keywords": [
+                "Figma, Illustrator"
+            ]
+        },
+        {
+            "name": "Project Management",
+            "level": "",
+            "keywords": []
         }
     ],
     "languages": [
         {
             "language": "English",
             "fluency": "Native speaker"
+        },
+        {
+            "language": "Sinhala",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Tamil",
+            "fluency": "Native speaker"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
+            "name": "Riding",
             "keywords": [
-                "Ferrets",
-                "Unicorns"
+                "Super bikes",
+                "Track bikes"
             ]
-        }
-    ],
-    "references": [
+        },
         {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
+            "name": "Hiking"
+        },
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "url": "https://project.com/"
+            "name": "Gaming"
         }
     ]
 }
